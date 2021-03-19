@@ -9,7 +9,7 @@ import "./assets/img/4geeks.ico";
 
 window.onload = function() {
   //write your code here
-  var suits = ["diamonds", "hearts", "shamrocks", "spades"];
+  var suits = ["\u2666", "\u2665", "\u2663", "\u2660"];
   var numbers = [
     "A",
     "2",
